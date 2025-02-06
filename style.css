@@ -1,0 +1,32 @@
+table.tabla1{
+border: 1px;
+border-style:solid;
+border-color: red;
+
+}
+
+table.tabla2{
+
+border: 1px;
+border-style:solid;
+border-color:red;
+
+}
+
+td.tabla3{
+
+    width: 300px;
+    border: 2px;
+    border-style:solid;
+    border-color:green;
+    text-align:center;
+
+}
+
+table.tabla3{
+
+border: 2px;
+border-style:solid;
+border-color:green
+
+}
